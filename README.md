@@ -1,2 +1,2 @@
 # VGU_AIoT
-Multi-disciplinary Project 1
+Multi-disciplinary Project
